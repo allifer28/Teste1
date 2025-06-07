@@ -1,11 +1,12 @@
 body {
   font-family: Arial, sans-serif;
+  color: azure;
   background-color: #f2f2f2;
   padding: 20px;
 }
 
 .container {
-  background-color: white;
+  background-color: rgb(10, 0, 102);
   padding: 30px;
   border-radius: 10px;
   max-width: 600px;
@@ -21,7 +22,7 @@ input, button {
 }
 
 button {
-  background-color: #0066cc;
+  background-color: #58b4ff;
   color: white;
   border: none;
   cursor: pointer;
